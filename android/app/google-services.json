@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520285505256",
+    "project_id": "admin-auth-22fe6",
+    "storage_bucket": "admin-auth-22fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520285505256:android:a5d96e9b43d6ffd273ab5d",
+        "android_client_info": {
+          "package_name": "com.student_crud_admin.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520285505256-9kmdc7g71ljaqn43t723tssmu3c98shq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbW-mvt0BHmlSkc1Pw8kz0NuiZMudpHc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520285505256-9kmdc7g71ljaqn43t723tssmu3c98shq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
