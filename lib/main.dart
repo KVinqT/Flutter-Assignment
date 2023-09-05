@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
               image: AssetImage('assets/weed.png'),
             ),
           ),
-          const Text('Welcome to Weed Admin',
+          const Text('Welcome to Weed University Admin',
               style: TextStyle(
                   letterSpacing: 2.0,
                   fontWeight: FontWeight.bold,

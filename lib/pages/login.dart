@@ -146,7 +146,7 @@ class _LoginState extends State<Login> {
                   GestureDetector(
                     onTap: widget.onTap,
                     child: Text(
-                      'Or Resgiter',
+                      'Or Register',
                       style: TextStyle(
                           fontSize: 14,
                           fontWeight: FontWeight.bold,
