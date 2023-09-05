@@ -49,7 +49,7 @@ class _LoginState extends State<Login> {
         context: context,
         builder: (context) {
           return const AlertDialog(
-            backgroundColor: Colors.blue,
+            backgroundColor: Colors.black,
             title: Center(
                 child: Text(
               'Incorrect Email',
@@ -64,7 +64,7 @@ class _LoginState extends State<Login> {
         context: context,
         builder: (context) {
           return const AlertDialog(
-            backgroundColor: Colors.blue,
+            backgroundColor: Colors.black,
             title: Center(
                 child: Text(
               'Incorrect Password',

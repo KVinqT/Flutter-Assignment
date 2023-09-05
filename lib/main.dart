@@ -44,6 +44,7 @@ class HomePage extends StatelessWidget {
             },
             child: const Text(
               'Continue',
+              style: TextStyle(color: Colors.black),
             ),
           )
         ],
